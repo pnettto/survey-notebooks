@@ -1,6 +1,0 @@
-#!/bin/bash
-
-# Enable ipywidgets for notebooks
-echo "Enabling ipywidgets..."
-
-# This ensures widgets work properly in the notebook environment

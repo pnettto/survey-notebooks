@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Start the Voila dashboard with the regions notebook as the main entry point
-exec voila Regions/regions.ipynb --port=8866 --no-browser --Voila.ip='0.0.0.0'
