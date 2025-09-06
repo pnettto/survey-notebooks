@@ -1,0 +1,18 @@
+name: survey-dashboard
+channels:
+  - conda-forge
+  - pyviz
+dependencies:
+  - python=3.11
+  - pip
+  - jupyter
+  - jupyterlab
+  - voila
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - numpy
+  - openpyxl
+  - plotly
+  - pip:
+    - -r requirements.txt

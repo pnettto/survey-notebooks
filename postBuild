@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Enable jupyter extensions
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+jupyter serverextension enable --py jupyterlab --sys-prefix
+
+# Install and enable voila
+jupyter serverextension enable --py voila --sys-prefix
