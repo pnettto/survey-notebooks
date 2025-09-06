@@ -6,7 +6,7 @@ Interactive data visualization of Swedish regional survey data across 5 regions:
 
 Click the badge below to launch this notebook in an interactive environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPOSITORY/main?labpath=regions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnetto/survey-notebooks/main?labpath=regions.ipynb)
 
 > **Note**: Replace `USERNAME/REPOSITORY` in the badge URL above with your actual GitHub username and repository name.
 
