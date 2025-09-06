@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - pyviz
 dependencies:
-  - python=3.11
+  - python=3.9
   - pip
   - jupyter
   - jupyterlab
@@ -14,5 +14,3 @@ dependencies:
   - numpy
   - openpyxl
   - plotly
-  - pip:
-    - -r requirements.txt

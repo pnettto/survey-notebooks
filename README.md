@@ -1,6 +1,6 @@
 # Survey Data Analysis Dashboard
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPO_NAME/main?urlpath=voila%2Frender%2FRegions%2Fregions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pnettto/survey-notebooks/main?urlpath=voila%2Frender%2FRegions%2Fregions.ipynb)
 
 An interactive dashboard for analyzing survey data across different regions, demographics, and time periods using Jupyter notebooks and Voila.
 
