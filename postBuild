@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Enable Jupyter widgets extension
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
