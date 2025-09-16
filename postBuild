@@ -1,4 +1,8 @@
 #!/bin/bash
 
-# Enable Jupyter widgets extension
+# Enable Jupyter widgets extension for classic notebook
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
+
+# JupyterLab 3.0+ has widgets built-in, but ensure proper configuration
+jupyter lab clean
+jupyter lab build --minimize=False
